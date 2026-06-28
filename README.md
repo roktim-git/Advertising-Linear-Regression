@@ -107,12 +107,13 @@ The project includes:
 ## 📁 Project Structure
 
 ```
-Advertising-Linear-Regression/
+Advertising-Linear_regression/
 │
 ├── advertising.csv
-├── linear_regression.py
+├── abbabfb.py
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── .gitignore
 ```
 
 ---
@@ -122,7 +123,7 @@ Advertising-Linear-Regression/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Advertising-Linear-Regression.git
+git clone https://github.com/roktim-git/Advertising-Linear-Regression.git
 ```
 
 ### Move into the project folder
@@ -177,7 +178,7 @@ python linear_regression.py
 
 Computer Science Student | Python | Machine Learning | Data Science Enthusiast
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/roktim-git
 
 ---
 
