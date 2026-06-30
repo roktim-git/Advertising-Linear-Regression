@@ -141,7 +141,7 @@ pip install -r requirements.txt
 ### Run the project
 
 ```bash
-python linear_regression.py
+python abbabfb.py
 ```
 
 ---
